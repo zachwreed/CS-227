@@ -1,2 +1,2 @@
 # CS227
-NASM classwork for Architecture and Assembly 227
+NASM classwork for OSU's Architecture and Assembly 227
